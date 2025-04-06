@@ -30,7 +30,7 @@ function mulai()
 
 function wa(isi) 
 {
-	open("https://wa.me/6285162881310?text=Di Di hari spesial ini.. " + isi)
+	open("https://wa.me/6285162881310?text=Di hari spesial ini.. " + isi)
 }
 
 async function makeawish() 
